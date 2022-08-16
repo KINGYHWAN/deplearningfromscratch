@@ -1,0 +1,8 @@
+git -add .
+git commit -m "내용"
+git push origin master
+username : KINGYHWAN
+password : token 입력
+
+이러면 파일 올라옴
+
